@@ -1,4 +1,4 @@
 # Tasks
 
 this is a sample task repo for practicing 
-dummy test for jenkins webhook
+dummy test for jenkins webhooks job
